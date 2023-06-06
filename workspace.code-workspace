@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../ReactNativeTest"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"powershell.cwd": "c:\\Users\\Fadekemi Olukanni\\Desktop\\stedi-react-native-appstore-team3-main"
+	}
+}
